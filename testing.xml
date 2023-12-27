@@ -5,7 +5,7 @@
         <classes>
             <class name="Test.ExtractPriceTest">
                 <methods>
-                    <include name="getPrice"/>
+                    <include name="extractPrice"/>
                 </methods>
             </class>
         </classes>
